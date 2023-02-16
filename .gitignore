@@ -1,0 +1,3 @@
+*.pyc
+todoapp_env
+db.sqlite
